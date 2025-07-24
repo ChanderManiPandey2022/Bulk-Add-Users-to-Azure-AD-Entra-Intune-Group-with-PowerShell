@@ -1,0 +1,5 @@
+Bulk-Add-Users-to-Azure-AD-Entra-Intune-Group-with-PowerShell
+
+Script Link :- 
+
+https://github.com/ChanderManiPandey2022/Bulk-Add-Users-to-Azure-AD-Entra-Intune-Group-with-PowerShell/releases/download/v1.0.0/Bulk.Add.Users.to.Azure.AD.Entra.Intune.Group.with.PowerShell.ps1
